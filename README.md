@@ -11,7 +11,7 @@
 - Uploads and processes any PDF document
 - Splits it intelligently into searchable chunks
 - Uses semantic search to find relevant sections
-- GPT-3.5 answers questions using ONLY the document
+- grok ai answers questions using ONLY the document
 
 ## Evaluation results
 | Metric | Score | What it means |
