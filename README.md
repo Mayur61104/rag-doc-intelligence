@@ -22,7 +22,7 @@
 | Context Recall | 0.XX | Found all relevant information |
 
 ## Tech stack
-LangChain · sentence-transformers · FAISS · OpenAI GPT-3.5 · Gradio
+LangChain · sentence-transformers · FAISS · GROK AI · Gradio
 
 ## How to run
 1. Open the notebook in Google Colab
